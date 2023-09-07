@@ -1,4 +1,4 @@
-### OPEN COMPUTER TEST Repository👋
+### MEIN OPENCOMPUTERS TEST Repository👋
 
 <!--
 **MaxtvNetzwerk/maxtvnetzwerk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
